@@ -1,0 +1,12 @@
+a = 25
+b = 5
+
+# addition
+print ('Sum: ', a + b)
+# subtraction
+print ('Subtraction: ', a - b)
+# division
+print ('division: ', a / b)
+# multiplication
+print ('multiplication: ', a * b)
+
